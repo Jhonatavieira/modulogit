@@ -1,2 +1,3 @@
-Meu primeiro sistema no GIT
-Nova inf add. 
+My new software into the github. I'm test the mode push. 
+
+Bye.
